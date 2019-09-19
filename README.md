@@ -15,3 +15,6 @@ that we have configured in the application.yml file <br>
 Corresonding Eureka client is enabled in another application. <br> 
 Application can be located at below github repo <br>
 https://github.com/lavkherwa/AllAboutREST 
+
+specific commit details for enabling Eureka client in above repo <br>
+https://github.com/lavkherwa/AllAboutREST/commit/ae9d266687e1d0983c268c97510903d149972154
