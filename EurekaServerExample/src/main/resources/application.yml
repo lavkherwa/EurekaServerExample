@@ -1,0 +1,23 @@
+server:
+  port: 8090
+
+spring:
+  security:
+    user:
+      name: admin
+      password: pwd
+
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    service-url:
+      defaultZone:  http://admin:pwd@localhost:8090/eureka/
+  server:
+    waitTimeInMsWhenSyncEmpty: 0
