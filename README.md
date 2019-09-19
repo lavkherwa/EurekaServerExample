@@ -1,0 +1,17 @@
+# EurekaServerExample
+
+Sample application to setup Eureka Server
+
+After running the application Eureka Server will start at <br>
+http://localhost:8090/ 
+
+From spring 2.x onward security is default enabled for Eureka Server 
+and therefore to access Eureka server application you need below credentials 
+that we have configured in the application.yml file <br>
+**name:** admin <br>
+**password:** pwd
+
+
+Corresonding Eureka client is enabled in another application. <br> 
+Application can be located at below github repo <br>
+https://github.com/lavkherwa/AllAboutREST 
