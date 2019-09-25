@@ -19,5 +19,5 @@ https://github.com/lavkherwa/AllAboutREST
 specific commit details for enabling Eureka client in above repo <br>
 https://github.com/lavkherwa/AllAboutREST/commit/ae9d266687e1d0983c268c97510903d149972154
 
-After starting the Eureka server, start the corresponding All About Rest application as well 
+After starting the Eureka server, start the corresponding AllAboutRest application as well 
 to verify it registers to the server ;)
